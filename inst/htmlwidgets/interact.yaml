@@ -1,0 +1,6 @@
+dependencies:
+ - name: interact
+   version: 1.9.18
+   src: "htmlwidgets/lib/interact"
+   script: interact.min.js
+   stylesheet: interact.css

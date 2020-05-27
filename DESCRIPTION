@@ -1,0 +1,26 @@
+Package: unlayout
+Title: Unlayout the layout of HTML Widgets
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Earo",
+             family = "Wang",
+             role = c("aut", "cre"),
+             email = "earo.wang@gmail.com",
+             comment = c(ORCID = "0000-0001-6448-5260")),
+      person(given = "Taye",
+             family = "Adeyemi",
+             role = c("ctb", "cph"),
+             comment = "interact.js library"))
+Description: Provides one helper for HTML widgets to be
+    draggable, with or without Shiny. It is an R wrapper for the
+    'draggable' method of the 'interact.js' library.
+License: MIT + file LICENSE
+Imports: 
+    htmltools,
+    htmlwidgets
+Suggests: 
+    plotly
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
