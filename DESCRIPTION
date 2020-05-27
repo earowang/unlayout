@@ -1,5 +1,5 @@
 Package: unlayout
-Title: Unlayout the layout of HTML Widgets
+Title: Unlayout the Layout of HTML Widgets
 Version: 0.0.1
 Authors@R: 
     c(person(given = "Earo",
